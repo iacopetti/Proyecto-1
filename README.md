@@ -59,12 +59,14 @@ Existen más gráficos que pueden ser visualizados dentro del proyecto.
 
 Los modelos que se realizaron en el proyecto fueron KNN y Random Forest, y luego del desarrollo de los mismos podemos visualizar los siguientes resultados:
 
-Métrica	KNN	RF
-R2	0.57	0.53
-MAE	0.47	0.45
-MSE	0.42	0.45
-RMSE	0.65	0.67
-![image](https://user-images.githubusercontent.com/106395993/197910840-02738487-0f24-4726-9fbf-9a04c8193de8.png)
+![image](https://user-images.githubusercontent.com/106395993/197911002-f1495621-a04f-486a-b74e-4387b377913c.png)
+
+# Conclusions
+
+El modelo que obtuvo los mejores resultados fue el KNN. Sin embargo, ningún modelo tuvo un gran nivel de rendimiento en el proyecto. Dicho esto, no sería recomendable basarse en este tipo de modelos para la predicción de las ventas con la base que se presentó.
+
+
+
 
 
 
