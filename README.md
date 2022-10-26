@@ -43,6 +43,31 @@ Para la primer variable mencionada, se tuvo que eliminar los nulos. Para la segu
 
 <img width="351" alt="image" src="https://user-images.githubusercontent.com/106395993/197909662-81aa0aa6-d43d-4596-9cd1-c50040d23d82.png">
 
+Matriz de correlación, para comprender mejor la relación entre las variables. Gran correlación principalmente entre Item Outlet Sales y Item MRP.
+
+![image](https://user-images.githubusercontent.com/106395993/197909897-7f25d900-ca6a-47bf-97a4-c3c40a715db7.png)
+
+Gráfico que muestra la venta dependiendo el tipo de producto. Frutas y vegetales lideran la tabla.
+
+![image](https://user-images.githubusercontent.com/106395993/197909998-35ebc79d-1f20-442f-964e-e3678b559fef.png)
+
+Ventas por tipo de supermercado, en donde el supermercado del tipo 1 presenta los mejores resultados.
+
+Existen más gráficos que pueden ser visualizados dentro del proyecto.
+
+# Models and Results
+
+Los modelos que se realizaron en el proyecto fueron KNN y Random Forest, y luego del desarrollo de los mismos podemos visualizar los siguientes resultados:
+
+Métrica	KNN	RF
+R2	0.57	0.53
+MAE	0.47	0.45
+MSE	0.42	0.45
+RMSE	0.65	0.67
+![image](https://user-images.githubusercontent.com/106395993/197910840-02738487-0f24-4726-9fbf-9a04c8193de8.png)
+
+
+
 
 
 
